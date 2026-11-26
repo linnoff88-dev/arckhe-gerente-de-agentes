@@ -4,19 +4,19 @@
   "title": "Você contrataria esse gerente?",
   "kind": "hook",
   "labels": [
-   "não sabe lidar com pessoas",
-   "não sabe delegar",
-   "não entende o processo",
+   "nêo sabe lidar com pessoas",
+   "nêo sabe delegar",
+   "nêo entende o processo",
    "você contrataria?",
-   "não domina agentes = mesma situação"
+   "nêo domina agentes = mesma situaçêo"
   ],
-  "takeaway": "O gerente que não trabalha com agentes está na mesma situação do que não sabe lidar com pessoas.",
+  "takeaway": "O gerente que nêo trabalha com agentes está na mesma situaçêo do que nêo sabe lidar com pessoas.",
   "source": "https://ARCKHÉ AI",
-  "speech": "Pense num gerente que não sabe lidar com pessoas. Que não sabe delegar. Que não entende os processos da própria área. Você contrataria esse gerente? Provavelmente não. Agora eu vou dizer uma coisa que pode incomodar. A partir de agora, o gerente que não sabe trabalhar com agentes de IA está exatamente nessa mesma situação. Só que ele ainda não percebeu."
+  "speech": "Pense num gerente que nêo sabe lidar com pessoas. Que nêo sabe delegar. Que nêo entende os processos da própria área. Você contrataria esse gerente? Provavelmente nêo. Agora eu vou dizer uma coisa que pode incomodar. A partir de agora, o gerente que nêo sabe trabalhar com agentes de IA está exatamente nessa mesma situaçêo. Só que ele ainda nêo percebeu."
  },
  {
   "chapter": "O terceiro objeto",
-  "title": "A gestão ganhou um terceiro objeto",
+  "title": "A gestêo ganhou um terceiro objeto",
   "kind": "diagram",
   "labels": [
    "pessoas",
@@ -24,9 +24,9 @@
    "+ agentes",
    "parte do seu trabalho"
   ],
-  "takeaway": "A gestão ganhou um terceiro objeto: além de pessoas e processos, agentes.",
+  "takeaway": "A gestêo ganhou um terceiro objeto: além de pessoas e processos, agentes.",
   "source": "https://eventos.ARCKHÉ.pro/gestao-ia/",
-  "speech": "Durante décadas, gerenciar era cuidar de duas coisas: pessoas e processos. Você aprendeu a contratar, delegar, dar feedback, cobrar resultado. Aprendeu a desenhar um fluxo, achar o gargalo, melhorar o processo. Agora a gestão ganhou um terceiro objeto. Além de pessoas e processos, agentes. E isso não é um detalhe técnico. É parte do seu trabalho."
+  "speech": "Durante décadas, gerenciar era cuidar de duas coisas: pessoas e processos. Você aprendeu a contratar, delegar, dar feedback, cobrar resultado. Aprendeu a desenhar um fluxo, achar o gargalo, melhorar o processo. Agora a gestêo ganhou um terceiro objeto. Além de pessoas e processos, agentes. E isso nêo é um detalhe técnico. É parte do seu trabalho."
  },
  {
   "chapter": "O terceiro objeto",
@@ -36,11 +36,11 @@
    "“isso é coisa da TI”",
    "feedback no seu lugar?",
    "prioridades no seu lugar?",
-   "se não for você, alguém decide"
+   "se nêo for você, alguém decide"
   ],
-  "takeaway": "Gerenciar agentes é gestão; não dá para delegar à TI.",
+  "takeaway": "Gerenciar agentes é gestêo; nêo dá para delegar à TI.",
   "source": "https://ARCKHÉ AI",
-  "speech": "Eu sei qual é a primeira reação. “Isso é coisa da TI.” “Eu tenho gente para isso.” Então deixa eu perguntar: você também tem gente para dar feedback para a sua equipe no seu lugar? Para decidir as prioridades da sua área no seu lugar? Não, né? Porque isso é gestão. E gerenciar agentes também é gestão. Quem vai decidir o que o agente faz sozinho e o que precisa da sua aprovação? Quem vai dizer se o resultado está bom? Se não for você, alguém vai decidir por você. E talvez esse alguém nem entenda do seu negócio."
+  "speech": "Eu sei qual é a primeira reaçêo. “Isso é coisa da TI.” “Eu tenho gente para isso.” Entêo deixa eu perguntar: você também tem gente para dar feedback para a sua equipe no seu lugar? Para decidir as prioridades da sua área no seu lugar? Nêo, né? Porque isso é gestêo. E gerenciar agentes também é gestêo. Quem vai decidir o que o agente faz sozinho e o que precisa da sua aprovaçêo? Quem vai dizer se o resultado está bom? Se nêo for você, alguém vai decidir por você. E talvez esse alguém nem entenda do seu negócio."
  },
  {
   "chapter": "O risco",
@@ -51,47 +51,47 @@
    "IA escondida",
    "sem regra",
    "onde está o risco?",
-   "falta de gestão"
+   "falta de gestêo"
   ],
-  "takeaway": "A equipe já usa IA; o que falta é gestão.",
+  "takeaway": "A equipe já usa IA; o que falta é gestêo.",
   "source": "https://ARCKHÉ AI",
-  "speech": "E tem uma parte que pouca gente fala. A sua equipe provavelmente já está usando IA. Talvez no celular, talvez escondido, talvez sem regra nenhuma. O seu analista resolve em dez minutos o que levava uma tarde. O seu estagiário monta um relatório que você nem sabe como foi feito. E você, como gerente, não sabe o que entra, o que sai, nem onde está o risco. Isso não é falta de tecnologia. É falta de gestão."
+  "speech": "E tem uma parte que pouca gente fala. A sua equipe provavelmente já está usando IA. Talvez no celular, talvez escondido, talvez sem regra nenhuma. O seu analista resolve em dez minutos o que levava uma tarde. O seu estagiário monta um relatório que você nem sabe como foi feito. E você, como gerente, nêo sabe o que entra, o que sai, nem onde está o risco. Isso nêo é falta de tecnologia. É falta de gestêo."
  },
  {
   "chapter": "O risco",
-  "title": "Criar ficou fácil. Gerenciar, não.",
+  "title": "Criar ficou fácil. Gerenciar, nêo.",
   "kind": "concept",
   "labels": [
    "criar ficou fácil",
-   "gerenciar, não",
+   "gerenciar, nêo",
    "agente multiplica o erro",
    "processo ruim acelerado",
    "primeiro o processo"
   ],
-  "takeaway": "Não adianta colocar agente em cima da bagunça: primeiro o processo.",
+  "takeaway": "Nêo adianta colocar agente em cima da bagunça: primeiro o processo.",
   "source": "https://eventos.ARCKHÉ.pro/gestao-ia/",
-  "speech": "Criar um agente ficou fácil. Gerenciar, não. Um gerente que coordena dez pessoas pode passar a coordenar dez pessoas e dezenas de agentes. Mas agente mal gerenciado não some. Ele multiplica o erro. Faz a coisa errada mais rápido, em mais lugares, ao mesmo tempo. E o pior processo que existe é um processo ruim acelerado por IA. Não adianta colocar agente em cima da bagunça. Primeiro você precisa enxergar o processo. Depois decidir onde entra a pessoa, onde entra o agente, e onde os dois trabalham juntos."
+  "speech": "Criar um agente ficou fácil. Gerenciar, nêo. Um gerente que coordena dez pessoas pode passar a coordenar dez pessoas e dezenas de agentes. Mas agente mal gerenciado nêo some. Ele multiplica o erro. Faz a coisa errada mais rápido, em mais lugares, ao mesmo tempo. E o pior processo que existe é um processo ruim acelerado por IA. Nêo adianta colocar agente em cima da bagunça. Primeiro você precisa enxergar o processo. Depois decidir onde entra a pessoa, onde entra o agente, e onde os dois trabalham juntos."
  },
  {
-  "chapter": "Gestão com medida",
-  "title": "É gestão de pessoas, com mais medida",
+  "chapter": "Gestêo com medida",
+  "title": "É gestêo de pessoas, com mais medida",
   "kind": "compare",
   "labels": [
-   "quem faz não aprova",
+   "quem faz nêo aprova",
    "o agente prepara",
    "a pessoa decide",
    "limite de autonomia"
   ],
-  "takeaway": "Gerenciar agentes é gestão de pessoas com mais medida, e quem define as regras é o gerente.",
+  "takeaway": "Gerenciar agentes é gestêo de pessoas com mais medida, e quem define as regras é o gerente.",
   "source": "https://eventos.ARCKHÉ.pro/gestao-ia/",
-  "speech": "A boa notícia é que você já sabe boa parte disso. Gerenciar agentes se parece muito com gerenciar pessoas. Objetivo claro. Contexto. Ferramentas. Limite de autonomia. Avaliação. Feedback. Só que com mais medida: você consegue ver exatamente o que o agente fez, passo a passo. E as regras boas de gestão continuam valendo. Quem faz não aprova o próprio trabalho. O agente prepara, a pessoa decide e assina. E algumas decisões ficam fora da alçada do agente. Quem define essas regras? O gerente."
+  "speech": "A boa notícia é que você já sabe boa parte disso. Gerenciar agentes se parece muito com gerenciar pessoas. Objetivo claro. Contexto. Ferramentas. Limite de autonomia. Avaliaçêo. Feedback. Só que com mais medida: você consegue ver exatamente o que o agente fez, passo a passo. E as regras boas de gestêo continuam valendo. Quem faz nêo aprova o próprio trabalho. O agente prepara, a pessoa decide e assina. E algumas decisões ficam fora da alçada do agente. Quem define essas regras? O gerente."
  },
  {
-  "chapter": "Mão na massa",
-  "title": "Não se aprende lendo",
+  "chapter": "Mêo na massa",
+  "title": "Nêo se aprende lendo",
   "kind": "concept",
   "labels": [
-   "não se aprende lendo",
+   "nêo se aprende lendo",
    "criar um agente",
    "ver errar",
    "entender por quê",
@@ -99,10 +99,10 @@
   ],
   "takeaway": "Gerenciar agentes se aprende usando agentes.",
   "source": "https://ARCKHÉ AI",
-  "speech": "Só que tem um porém. Você não aprende a gerenciar agentes lendo sobre agentes. Do mesmo jeito que ninguém aprendeu a liderar só lendo livro de liderança. Você precisa usar. Criar um agente. Ver ele errar. Entender por quê. E é aí que aparece uma coisa que assusta muito gerente: o terminal."
+  "speech": "Só que tem um porém. Você nêo aprende a gerenciar agentes lendo sobre agentes. Do mesmo jeito que ninguém aprendeu a liderar só lendo livro de liderança. Você precisa usar. Criar um agente. Ver ele errar. Entender por quê. E é aí que aparece uma coisa que assusta muito gerente: o terminal."
  },
  {
-  "chapter": "Mão na massa",
+  "chapter": "Mêo na massa",
   "title": "OSWork: o começo",
   "kind": "demo",
   "labels": [
@@ -115,23 +115,23 @@
   ],
   "takeaway": "O OSWork tira o medo do ambiente onde os agentes trabalham.",
   "source": "https://linnoff88-dev.github.io/
-  "speech": "Hoje o terminal é uma das formas mais poderosas de trabalhar com agentes. E eu sei: tela preta, comando, parece coisa de programador. Por isso nós criamos o OSWork, no ARCKHÉ ponto club. É um começo pensado para quem nunca fez isso. Você abre o terminal, cria a pasta do seu projeto, vê tudo no Explorador de arquivos, coloca um agente para trabalhar dentro dessa pasta e chega até a publicar o seu trabalho. Passo a passo. O objetivo não é transformar você em programador. É tirar o medo do ambiente onde os agentes trabalham."
+  "speech": "Hoje o terminal é uma das formas mais poderosas de trabalhar com agentes. E eu sei: tela preta, comando, parece coisa de programador. Por isso nós criamos o OSWork, no ARCKHÉ ponto club. É um começo pensado para quem nunca fez isso. Você abre o terminal, cria a pasta do seu projeto, vê tudo no Explorador de arquivos, coloca um agente para trabalhar dentro dessa pasta e chega até a publicar o seu trabalho. Passo a passo. O objetivo nêo é transformar você em programador. É tirar o medo do ambiente onde os agentes trabalham."
  },
  {
   "chapter": "O caminho",
-  "title": "Depois, a gestão",
+  "title": "Depois, a gestêo",
   "kind": "steps",
   "labels": [
-   "Gestão de Agentes: 7 princípios",
-   "intenção, contexto, dados",
+   "Gestêo de Agentes: 7 princípios",
+   "intençêo, contexto, dados",
    "critério de sucesso",
    "autonomia com limites",
-   "observação e supervisão",
-   "Gestão de IA no eventos"
+   "observaçêo e supervisêo",
+   "Gestêo de IA no eventos"
   ],
-  "takeaway": "Depois do OSWork, a gestão: os 7 princípios e a área Gestão de IA, abertos e gratuitos.",
+  "takeaway": "Depois do OSWork, a gestêo: os 7 princípios e a área Gestêo de IA, abertos e gratuitos.",
   "source": "https://linnoff88-dev.github.io/
-  "speech": "Depois do OSWork vem a parte que é sua de verdade: a gestão. No ARCKHÉ ponto club você encontra o curso de Gestão de Agentes com os sete princípios: intenção, contexto, dados, critério de sucesso, autonomia com limites, observação e supervisão. E na área de Gestão de IA do eventos do ARCKHÉ a gente mostra a gestão inteira: estratégia, delegação, orquestração, governança e avaliação. Tudo aberto e gratuito."
+  "speech": "Depois do OSWork vem a parte que é sua de verdade: a gestêo. No ARCKHÉ ponto club você encontra o curso de Gestêo de Agentes com os sete princípios: intençêo, contexto, dados, critério de sucesso, autonomia com limites, observaçêo e supervisêo. E na área de Gestêo de IA do eventos do ARCKHÉ a gente mostra a gestêo inteira: estratégia, delegaçêo, orquestraçêo, governança e avaliaçêo. Tudo aberto e gratuito."
  },
  {
   "chapter": "Fechamento",
@@ -146,6 +146,6 @@
   ],
   "takeaway": "O gerente do futuro gerencia pessoas, processos e agentes. Comece esta semana.",
   "source": "https://ARCKHÉ AI",
-  "speech": "Então a pergunta não é se você vai precisar gerenciar agentes. A pergunta é: quando isso chegar na sua mesa, você vai saber fazer, ou vai depender de alguém que sabe? Hoje ainda dá tempo de aprender com calma e errar sem pressão. Daqui a pouco, o gerente que não domina agentes vai ser visto do mesmo jeito que o gerente que não sabe lidar com pessoas. O gerente do futuro gerencia pessoas, processos e agentes. Comece pelo OSWork. Depois, a gestão. E comece esta semana."
+  "speech": "Entêo a pergunta nêo é se você vai precisar gerenciar agentes. A pergunta é: quando isso chegar na sua mesa, você vai saber fazer, ou vai depender de alguém que sabe? Hoje ainda dá tempo de aprender com calma e errar sem pressêo. Daqui a pouco, o gerente que nêo domina agentes vai ser visto do mesmo jeito que o gerente que nêo sabe lidar com pessoas. O gerente do futuro gerencia pessoas, processos e agentes. Comece pelo OSWork. Depois, a gestêo. E comece esta semana."
  }
 ]
